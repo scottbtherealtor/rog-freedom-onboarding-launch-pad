@@ -1,0 +1,1309 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "b1000000-0000-0000-0000-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Onboarding Portal — Trainings"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "State Transfer",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 1,
+              "@trn02": "Onboarding",
+              "@trn03": "Start Here",
+              "@trn04": "State Transfer",
+              "@trn05": "https://eservice.llr.sc.gov/SSO/Login/LoginPage?ReturnUrl=%2fBicChangeForm",
+              "@trn06": "Complete your state license transfer to ONE Freedom by submitting the BIC Change Form through the SC LLR eService portal."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000002",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Board Transfer",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 2,
+              "@trn02": "Onboarding",
+              "@trn03": "Start Here",
+              "@trn04": "Board Transfer",
+              "@trn05": "",
+              "@trn06": "To transfer your board membership, contact your board directly:\n\nGreater Greenville Association of Realtors (GGAR)\nhttps://www.ggar.com/\n50 Airpark Drive, Greenville, SC 29607\nPhone: 864-672-4427\n\nSpartanburg Association of Realtors\nhttps://www.spartanburgrealtors.com/\n225 N Pine St. Spartanburg, SC 29306\nPhone: 864-583-3679\n\nWestern Upstate Association of Realtors\n600 McGee Rd. Anderson, SC 29625\nPhone: 864-224-7941\nhttps://www.westernupstatemls.com/"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000003",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ONE Boarding",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 3,
+              "@trn02": "Onboarding",
+              "@trn03": "Start Here",
+              "@trn04": "ONE Boarding",
+              "@trn05": "https://guidejar.com/guides/45f3a5d8-f875-4969-bf5e-36f98f0922f4",
+              "@trn06": "Walk through the ONE Boarding guide to get a high-level overview of your onboarding journey and what to expect as a new ONE Freedom agent."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000004",
+            "text": {
+              "ops": [
+                {
+                  "insert": "zONE Welcome Email",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 4,
+              "@trn02": "Onboarding",
+              "@trn03": "Start Here",
+              "@trn04": "zONE Welcome Email",
+              "@trn05": "https://drive.google.com/file/d/1OOikRfzHAzPevM_jcLud_xx8z17dK5RE/view?usp=sharing",
+              "@trn06": "You should receive a \"Welcome email\", click the \"Open\" button above to view the email template. If you have received the email,  click \"CREATE ZONE PASSWORD\""
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000005",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Schedule In-Person or Digital Onboarding",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 5,
+              "@trn02": "Onboarding",
+              "@trn03": "Start Here",
+              "@trn04": "Schedule In-Person or Digital Onboarding",
+              "@trn05": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ25bjSQQ0cSJn2wKvOYMZyhr8H1ZS4DfKjnMl0rWKVWdR5G5iPKHpGLVON6Aj1Uo0L_69XZ5UoZ",
+              "@trn06": "Book your onboarding session — choose between an in-person or digital meeting with your BIC to complete the setup process."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000006",
+            "text": {
+              "ops": [
+                {
+                  "insert": "zONE Profile Setup",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 6,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "zONE Profile Setup",
+              "@trn05": "https://guidejar.com/guides/kmAxEeQbilnvbcakpRx9",
+              "@trn06": "Set up your zONE agent profile so your information is correctly configured within the ONE Freedom platform."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000007",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Initiate SkySlope Profile",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 7,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "Initiate SkySlope Profile",
+              "@trn05": "https://guidejar.com/guides/xvb2tUBrpCLFVOjNPtVa",
+              "@trn06": "Create and configure your SkySlope profile — ONE Freedom's transaction management platform for handling all your real estate deals."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000008",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Review Freedom Hub Intranet",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 8,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "Review Freedom Hub Intranet",
+              "@trn05": "https://sites.google.com/rogfreedom.com/onefreedomhub/rogf-survival-guide?authuser=0",
+              "@trn06": "Explore the Freedom Hub to find the Hub Calendar, Survival Guide, and information about your office. If you receive an access error, notify your BIC."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000009",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Setup ONE Design Profile",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 9,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "Setup ONE Design Profile",
+              "@trn05": "https://guidejar.com/guides/e337c695-cd3e-4d3b-abfe-8c1fcb7517d0",
+              "@trn06": "Create your ONE Design account and set up your branding profile so you're ready to produce professional marketing materials."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000010",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Create ONE Design Marketing Kit",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 10,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "Create ONE Design Marketing Kit",
+              "@trn05": "https://guidejar.com/guides/2dVGUexuimYpUI3pUN1K",
+              "@trn06": "Build your personalized marketing kit inside ONE Design — including branded templates for listings, social media, and client outreach."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000011",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Order Business Cards",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 11,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "Order Business Cards",
+              "@trn05": "https://guidejar.com/guides/e7e5cdf5-b0d8-4af3-a607-8173c2d6a7ee",
+              "@trn06": "Order your official ONE Freedom business cards through the approved vendor using your branded profile."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000012",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Order Signs",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 12,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "Order Signs",
+              "@trn05": "http://www.signsourcegreenville.com/index.php",
+              "@trn06": "Order your yard signs and real estate signage through Sign Source Greenville, ONE Freedom's approved sign vendor."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000013",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ONE Suite Overview",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 13,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "ONE Suite Overview",
+              "@trn05": "https://guidejar.com/guides/f350869f-d88f-482c-bd01-003e242b59e9",
+              "@trn06": "Get a guided tour of the ONE Suite — the collection of tools and platforms you'll use day-to-day as a ONE Freedom agent."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b2000000-0000-0000-0000-000000000014",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Setup Goal Planning Meeting with "
+                },
+                {
+                  "insert": "Darlene",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@trn01": 14,
+              "@trn02": "Onboarding",
+              "@trn03": "In-person/Digital Onboarding",
+              "@trn04": "Setup Goal Planning Meeting with Darlene",
+              "@trn05": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ3Uq6QGy0DjZR08IDJ3TnKR3i0VK1vYd5pK_gitZC4HmM0SwBN0Vpn3A39hy4fYUbrDd0rDz18b",
+              "@trn06": "Schedule a one-on-one goal planning session with Darlene to align on your business targets and create a roadmap for your first year."
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@trn01": {
+            "id": "/attributes/@trn01",
+            "fieldPath": "/attributes/@trn01",
+            "rank": "z"
+          },
+          "/attributes/@trn02": {
+            "id": "/attributes/@trn02",
+            "fieldPath": "/attributes/@trn02",
+            "rank": "zV"
+          },
+          "/attributes/@trn03": {
+            "id": "/attributes/@trn03",
+            "fieldPath": "/attributes/@trn03",
+            "rank": "zk"
+          },
+          "/attributes/@trn04": {
+            "id": "/attributes/@trn04",
+            "fieldPath": "/attributes/@trn04",
+            "rank": "zs"
+          },
+          "/attributes/@trn05": {
+            "id": "/attributes/@trn05",
+            "fieldPath": "/attributes/@trn05",
+            "rank": "zw"
+          },
+          "727ad3c8-98c0-4f98-b095-911065cb7c72": {
+            "id": "727ad3c8-98c0-4f98-b095-911065cb7c72",
+            "fieldPath": "/attributes/@trn06",
+            "rank": "zy"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@trn01": {
+            "id": "/attributes/@trn01",
+            "fieldPath": "/attributes/@trn01",
+            "rank": "z"
+          },
+          "/attributes/@trn02": {
+            "id": "/attributes/@trn02",
+            "fieldPath": "/attributes/@trn02",
+            "rank": "zV"
+          },
+          "/attributes/@trn03": {
+            "id": "/attributes/@trn03",
+            "fieldPath": "/attributes/@trn03",
+            "rank": "zk"
+          },
+          "/attributes/@trn04": {
+            "id": "/attributes/@trn04",
+            "fieldPath": "/attributes/@trn04",
+            "rank": "zs"
+          },
+          "/attributes/@trn05": {
+            "id": "/attributes/@trn05",
+            "fieldPath": "/attributes/@trn05",
+            "rank": "zw"
+          },
+          "eae07d8c-8244-48c2-b4fd-63cc2e738a55": {
+            "id": "eae07d8c-8244-48c2-b4fd-63cc2e738a55",
+            "fieldPath": "/attributes/@trn06",
+            "rank": "zy"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@trn01": {
+            "id": "/attributes/@trn01",
+            "fieldPath": "/attributes/@trn01",
+            "rank": "z"
+          },
+          "/attributes/@trn02": {
+            "id": "/attributes/@trn02",
+            "fieldPath": "/attributes/@trn02",
+            "rank": "zV"
+          },
+          "/attributes/@trn03": {
+            "id": "/attributes/@trn03",
+            "fieldPath": "/attributes/@trn03",
+            "rank": "zk"
+          },
+          "/attributes/@trn04": {
+            "id": "/attributes/@trn04",
+            "fieldPath": "/attributes/@trn04",
+            "rank": "zs"
+          },
+          "/attributes/@trn05": {
+            "id": "/attributes/@trn05",
+            "fieldPath": "/attributes/@trn05",
+            "rank": "zw"
+          },
+          "14013ccb-a0be-4af6-8f52-56e66aaf0630": {
+            "id": "14013ccb-a0be-4af6-8f52-56e66aaf0630",
+            "fieldPath": "/attributes/@trn06",
+            "rank": "zy"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@trn01": {
+            "id": "/attributes/@trn01",
+            "fieldPath": "/attributes/@trn01",
+            "rank": "z"
+          },
+          "/attributes/@trn02": {
+            "id": "/attributes/@trn02",
+            "fieldPath": "/attributes/@trn02",
+            "rank": "zV"
+          },
+          "/attributes/@trn03": {
+            "id": "/attributes/@trn03",
+            "fieldPath": "/attributes/@trn03",
+            "rank": "zk"
+          },
+          "/attributes/@trn04": {
+            "id": "/attributes/@trn04",
+            "fieldPath": "/attributes/@trn04",
+            "rank": "zs"
+          },
+          "/attributes/@trn05": {
+            "id": "/attributes/@trn05",
+            "fieldPath": "/attributes/@trn05",
+            "rank": "zw"
+          },
+          "4f91f329-3d32-4ad3-b2e3-e30dae4a631d": {
+            "id": "4f91f329-3d32-4ad3-b2e3-e30dae4a631d",
+            "fieldPath": "/attributes/@trn06",
+            "rank": "zy"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@trn01": {
+            "id": "/attributes/@trn01",
+            "fieldPath": "/attributes/@trn01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@trn02": {
+            "id": "/attributes/@trn02",
+            "fieldPath": "/attributes/@trn02",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@trn03": {
+            "id": "/attributes/@trn03",
+            "fieldPath": "/attributes/@trn03",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@trn04": {
+            "id": "/attributes/@trn04",
+            "fieldPath": "/attributes/@trn04",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@trn05": {
+            "id": "/attributes/@trn05",
+            "fieldPath": "/attributes/@trn05",
+            "rank": "zw",
+            "hidden": false
+          },
+          "df2d3de4-4e6e-42f2-b1a5-7b656119eced": {
+            "id": "df2d3de4-4e6e-42f2-b1a5-7b656119eced",
+            "fieldPath": "/attributes/@trn06",
+            "rank": "zy"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 320
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@trn01": {
+            "id": "/attributes/@trn01",
+            "fieldPath": "/attributes/@trn01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@trn02": {
+            "id": "/attributes/@trn02",
+            "fieldPath": "/attributes/@trn02",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@trn03": {
+            "id": "/attributes/@trn03",
+            "fieldPath": "/attributes/@trn03",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@trn04": {
+            "id": "/attributes/@trn04",
+            "fieldPath": "/attributes/@trn04",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@trn05": {
+            "id": "/attributes/@trn05",
+            "fieldPath": "/attributes/@trn05",
+            "rank": "zw",
+            "hidden": false
+          },
+          "aaf46c8f-bfaf-4d10-b45f-eb211cd9a8e5": {
+            "id": "aaf46c8f-bfaf-4d10-b45f-eb211cd9a8e5",
+            "fieldPath": "/attributes/@trn06",
+            "rank": "zy"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "64ee0dd0-c19c-4eb9-a613-05ee3a6a1127": {
+            "id": "64ee0dd0-c19c-4eb9-a613-05ee3a6a1127",
+            "fieldPath": "/attributes/@trn06",
+            "rank": "z"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@trn01": {
+        "type": "number",
+        "displayName": "Order",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@trn02": {
+        "type": "string",
+        "displayName": "Category"
+      },
+      "@trn03": {
+        "type": "string",
+        "displayName": "Sub-Category"
+      },
+      "@trn04": {
+        "type": "string",
+        "displayName": "Training Name"
+      },
+      "@trn05": {
+        "type": "string",
+        "displayName": "URL"
+      },
+      "@trn06": {
+        "type": "string",
+        "displayName": "Description"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📐"
+    }
+  }
+}

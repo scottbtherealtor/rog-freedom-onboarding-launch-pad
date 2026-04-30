@@ -1,0 +1,3568 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "c1000000-0000-0000-0000-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Onboarding Portal — Progress Records"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "5849e438-830c-47b6-bd95-8ff49f1104b3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scott Bergmann — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772034945692",
+              "@prg02": "scott@rogauthentic.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-25",
+                  "time": "15:57:14",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "04a24de8-18ae-460e-9ce4-b4c90ba1da36",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scott Bergmann — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772034945692",
+              "@prg02": "scott@rogauthentic.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-25",
+                  "time": "20:53:15",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c25c0286-5c02-44a6-a208-df778f01fd2d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scott Bergmann — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772034945692",
+              "@prg02": "scott@rogauthentic.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-25",
+                  "time": "20:53:17",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1e304280-5cd3-4133-8963-5a4a33cae884",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scott Bergmann — zONE Welcome Email"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772034945692",
+              "@prg02": "scott@rogauthentic.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000004",
+              "@prg04": "zONE Welcome Email",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-25",
+                  "time": "20:53:19",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4a9162fe-286b-44b8-b769-a1cb75b218c9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scott Bergmann — Schedule In-Person or Digital Onboarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772034945692",
+              "@prg02": "scott@rogauthentic.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000005",
+              "@prg04": "Schedule In-Person or Digital Onboarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-25",
+                  "time": "20:53:20",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa46462a-4914-471a-a467-b35b18a3b85e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scott Bergmann — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "684f1479-383f-4ca4-adb6-27f05528fcfe",
+              "@prg02": "scott@rogauthentic.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-26",
+                  "time": "02:12:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a782e83c-1599-4664-b23c-75a11dda1a02",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scott Bergmann — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "684f1479-383f-4ca4-adb6-27f05528fcfe",
+              "@prg02": "scott@rogauthentic.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-26",
+                  "time": "15:03:15",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f1f469e0-3432-430c-8949-00217b9be34a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "New Agent — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772120961289",
+              "@prg02": "Newagent@rogfreedom.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-26",
+                  "time": "15:50:17",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fbb56336-eaf6-4eea-a464-1b5c35457308",
+            "text": {
+              "ops": [
+                {
+                  "insert": "New Agent — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772120961289",
+              "@prg02": "Newagent@rogfreedom.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-26",
+                  "time": "15:51:05",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8c0bb929-c261-431c-aac3-13ddd7af715a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "New Agent — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772120961289",
+              "@prg02": "Newagent@rogfreedom.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-26",
+                  "time": "15:51:07",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "20d29b3e-8215-4a01-bd35-e2fe52b778d0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "New Agent — zONE Welcome Email"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772120961289",
+              "@prg02": "Newagent@rogfreedom.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000004",
+              "@prg04": "zONE Welcome Email",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-26",
+                  "time": "15:51:08",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "636cc81a-bf9d-4d44-8be6-c9d014dfaf46",
+            "text": {
+              "ops": [
+                {
+                  "insert": "New Agent — Schedule In-Person or Digital Onboarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772120961289",
+              "@prg02": "Newagent@rogfreedom.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000005",
+              "@prg04": "Schedule In-Person or Digital Onboarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-02-26",
+                  "time": "15:51:10",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "80478629-4304-4d5d-ac2f-87270cd525ea",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Preview User — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "dev-user",
+              "@prg02": "dev@preview.local",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-05",
+                  "time": "19:41:37",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "61d3ab9e-d72e-4357-b204-c7863cf33b0b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772744205997",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-05",
+                  "time": "20:56:54",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ed31f5be-6736-43f6-ad5b-8bbfb4673001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772744205997",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-05",
+                  "time": "20:57:02",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0eaeaa30-7226-44c2-b5dc-3828b0333212",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772744205997",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-05",
+                  "time": "20:57:20",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e0a42eae-6c9c-4cfb-8d25-167d1d48c217",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Anita Closing — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772821616578",
+              "@prg02": "greatrealtor11@yahoo.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-06",
+                  "time": "18:28:36",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8d5e7998-fddd-4ba2-8287-e34cd5a86121",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Anita Closing — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1772821616578",
+              "@prg02": "greatrealtor11@yahoo.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-06",
+                  "time": "18:31:21",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "11534c7c-929e-4824-9030-d0184cb07eef",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-06",
+                  "time": "18:40:25",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6292a77a-6c87-4006-b21c-771fbe693965",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Jessica Thomas — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773257841424",
+              "@prg02": "jessica@rogesteem.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:38:13",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1d09f310-ca8b-4ae9-a65d-966bfacf21da",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Jessica Thomas — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773257841424",
+              "@prg02": "jessica@rogesteem.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:38:17",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f02d7b3f-0769-42db-9de1-f7da9da18e09",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:38:43",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "803a0ca0-e0c9-4ca7-8d1c-13fc879ec764",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Jessica Thomas — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773257841424",
+              "@prg02": "jessica@rogesteem.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:38:44",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "eef5c2b9-7c1c-40ae-b409-323a0e055829",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:38:44",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "eda393c4-56ed-4ed5-a810-c8115fd601cc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Jessica Thomas — zONE Welcome Email"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773257841424",
+              "@prg02": "jessica@rogesteem.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000004",
+              "@prg04": "zONE Welcome Email",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:38:46",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d2362518-b5f8-4cba-b302-26aa154d8290",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — zONE Welcome Email"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000004",
+              "@prg04": "zONE Welcome Email",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:38:47",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ae83f1ce-b253-439c-93e1-7d5bc26696f5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Jessica Thomas — Schedule In-Person or Digital Onboarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773257841424",
+              "@prg02": "jessica@rogesteem.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000005",
+              "@prg04": "Schedule In-Person or Digital Onboarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:38:47",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bc76a64c-3b14-49df-aaf8-043727e6e7e9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Schedule In-Person or Digital Onboarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000005",
+              "@prg04": "Schedule In-Person or Digital Onboarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-11",
+                  "time": "19:39:12",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c50e33d7-c1e9-4dd8-a858-a4970553aa50",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:44:01",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "67dfb7cf-9a33-44ad-8c62-a23de9531a35",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:44:13",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d9504d66-35f9-4167-81d0-8b291230b1d8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:45:10",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7aba0eda-361e-4b5f-a1fd-0f6a1caca4a2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — zONE Welcome Email"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000004",
+              "@prg04": "zONE Welcome Email",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:45:39",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "73924108-dc4e-4487-bd60-f380ee33eff4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Schedule In-Person or Digital Onboarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000005",
+              "@prg04": "Schedule In-Person or Digital Onboarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:46:26",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9811bc08-b19e-42b8-8653-7c795c667feb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — zONE Profile Setup"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000006",
+              "@prg04": "zONE Profile Setup",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:47:32",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "186aaa86-329a-4fbe-a12f-4644a2e4fe02",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Initiate SkySlope Profile"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000007",
+              "@prg04": "Initiate SkySlope Profile",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:49:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a3836494-b60a-4ea2-b2de-e16eda184788",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Review Freedom Hub Intranet"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000008",
+              "@prg04": "Review Freedom Hub Intranet",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:50:02",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9ea54bb5-1368-4de2-9931-9311f82e21b9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Setup ONE Design Profile"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000009",
+              "@prg04": "Setup ONE Design Profile",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:50:15",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0e974ebe-783f-46a6-9416-fc583a3c0eee",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Create ONE Design Marketing Kit"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000010",
+              "@prg04": "Create ONE Design Marketing Kit",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:50:33",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d30fcbb8-1653-4473-a5b0-948c57aebb67",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Order Business Cards"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000011",
+              "@prg04": "Order Business Cards",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:50:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "14600ee8-84be-43ff-ad5c-c93da46b79a5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Order Signs"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000012",
+              "@prg04": "Order Signs",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:50:44",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "517ccfb6-f0a9-4e0b-b33d-302cbf180095",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — ONE Suite Overview"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000013",
+              "@prg04": "ONE Suite Overview",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:50:49",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cd2592f1-9a85-4e6f-908d-8303a2cdaf8b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cru Agent — Setup Goal Planning Meeting with BIC"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773502953034",
+              "@prg02": "evansdarlene24@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000014",
+              "@prg04": "Setup Goal Planning Meeting with BIC",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "15:51:12",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "539c14f7-435b-4372-982c-d68db2eb573d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — zONE Profile Setup"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000006",
+              "@prg04": "zONE Profile Setup",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "16:52:26",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b1dc7e33-688c-4c06-bb69-59df1d9580f1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Initiate SkySlope Profile"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000007",
+              "@prg04": "Initiate SkySlope Profile",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "16:52:26",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7d752fd5-e445-46f3-8194-46b740d82b10",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Review Freedom Hub Intranet"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000008",
+              "@prg04": "Review Freedom Hub Intranet",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "16:52:27",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e3cd3718-c0fa-44e5-8a57-87d9594c085d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Setup ONE Design Profile"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000009",
+              "@prg04": "Setup ONE Design Profile",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "16:52:29",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a61aabdc-dc8c-4ce4-b83f-5de8c613353e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Create ONE Design Marketing Kit"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000010",
+              "@prg04": "Create ONE Design Marketing Kit",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "16:52:30",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5c5748c5-fa75-4f6c-95f3-bec651239ea1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Order Business Cards"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000011",
+              "@prg04": "Order Business Cards",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "16:52:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "143515ed-7419-4202-8312-2c8aa02f2736",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — Order Signs"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000012",
+              "@prg04": "Order Signs",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "16:52:32",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f9b039b5-6ded-43f9-8558-56b66603cc71",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Coach Scott — ONE Suite Overview"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "03877783-b941-4f69-96f4-bb1b7ac88aae",
+              "@prg02": "scott@youronecoach.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000013",
+              "@prg04": "ONE Suite Overview",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-14",
+                  "time": "16:52:33",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c5955840-987d-46ca-b4da-764e35240a2e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie D — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773623265840",
+              "@prg02": "carrieuzell@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "01:08:18",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5e807c21-c5d0-449e-aa00-a783767ec99c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie D — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773623265840",
+              "@prg02": "carrieuzell@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "01:08:27",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "abfe5401-593c-499c-93ef-45a2ef81ae04",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:47:46",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9848a6aa-8852-407d-92c5-85ba14039fe8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:47:49",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dda118e2-597d-4467-b33c-6e5b5b16b91b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:48:30",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fc125e0f-243e-42c4-8bd3-e4d65c1d9793",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — zONE Welcome Email"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000004",
+              "@prg04": "zONE Welcome Email",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:48:45",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "95821a59-8421-4ccd-912b-86be8dfbf61e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Schedule In-Person or Digital Onboarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000005",
+              "@prg04": "Schedule In-Person or Digital Onboarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:49:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fe6f5194-5ec1-42d3-aa8b-42dfd47fec1b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — zONE Profile Setup"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000006",
+              "@prg04": "zONE Profile Setup",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:51:22",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "20569522-3f74-400c-ac6b-56b3623606dc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Initiate SkySlope Profile"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000007",
+              "@prg04": "Initiate SkySlope Profile",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:53:20",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8be9ef4a-b24f-4155-84e4-b7ea6fa9c357",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Review Freedom Hub Intranet"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000008",
+              "@prg04": "Review Freedom Hub Intranet",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:53:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "af40e6ad-b95d-4129-bc90-7e02ce407f3a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Setup ONE Design Profile"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000009",
+              "@prg04": "Setup ONE Design Profile",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:53:58",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "806ce941-7062-4650-ac88-19b4c00f9c6d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Create ONE Design Marketing Kit"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000010",
+              "@prg04": "Create ONE Design Marketing Kit",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:54:09",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "757ebc25-c4fe-4983-b9d5-5d2a8afff5ff",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Order Business Cards"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000011",
+              "@prg04": "Order Business Cards",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:54:11",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "996e2e29-699f-4fe7-a121-b15ef4354e9f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Order Signs"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000012",
+              "@prg04": "Order Signs",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:54:20",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3514666d-f983-45d7-a9c1-7cbde6ec2c6b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — ONE Suite Overview"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000013",
+              "@prg04": "ONE Suite Overview",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:54:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "797ba064-b120-4bef-9eaa-39d5cee708c8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carrie Dunaway — Setup Goal Planning Meeting with Darlene"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1773690457231",
+              "@prg02": "dunawaycarrie@gmail.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000014",
+              "@prg04": "Setup Goal Planning Meeting with Darlene",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-03-16",
+                  "time": "19:54:46",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bd7c2e37-2105-4aa3-8d56-234cdad24c68",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Wuindy Rodriguez — State Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1775699030055",
+              "@prg02": "wuindy2@yahoo.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000001",
+              "@prg04": "State Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-04-09",
+                  "time": "01:44:26",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "94bcda58-2282-44e2-a26d-34c3d517061a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Wuindy Rodriguez — Board Transfer"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1775699030055",
+              "@prg02": "wuindy2@yahoo.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000002",
+              "@prg04": "Board Transfer",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-04-09",
+                  "time": "01:44:34",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "41fc6bea-941c-4da8-80b7-6edb766c36c9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Wuindy Rodriguez — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1775699030055",
+              "@prg02": "wuindy2@yahoo.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-04-09",
+                  "time": "02:57:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "582344c8-d7ba-451b-b944-11c1cdb49cb2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Wuindy Rodriguez — zONE Welcome Email"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1775699030055",
+              "@prg02": "wuindy2@yahoo.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000004",
+              "@prg04": "zONE Welcome Email",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-04-09",
+                  "time": "02:58:05",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3748ecc2-a488-42c6-8055-8eb86bd6bd62",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Wuindy Rodriguez — Schedule In-Person or Digital Onboarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "1775699030055",
+              "@prg02": "wuindy2@yahoo.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000005",
+              "@prg04": "Schedule In-Person or Digital Onboarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-04-09",
+                  "time": "02:59:22",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e693e687-ddd2-464b-9e27-f235aefa18a9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Scott Bergmann — ONE Boarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prg01": "684f1479-383f-4ca4-adb6-27f05528fcfe",
+              "@prg02": "scott@rogauthentic.com",
+              "@prg03": "b2000000-0000-0000-0000-000000000003",
+              "@prg04": "ONE Boarding",
+              "@prg05": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-04-27",
+                  "time": "18:08:32",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@prg06": {
+                "type": "Select",
+                "optionId": "prg-opt-1"
+              }
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@prg01": {
+            "id": "/attributes/@prg01",
+            "fieldPath": "/attributes/@prg01",
+            "rank": "z"
+          },
+          "/attributes/@prg02": {
+            "id": "/attributes/@prg02",
+            "fieldPath": "/attributes/@prg02",
+            "rank": "zV"
+          },
+          "/attributes/@prg03": {
+            "id": "/attributes/@prg03",
+            "fieldPath": "/attributes/@prg03",
+            "rank": "zk"
+          },
+          "/attributes/@prg04": {
+            "id": "/attributes/@prg04",
+            "fieldPath": "/attributes/@prg04",
+            "rank": "zs"
+          },
+          "/attributes/@prg05": {
+            "id": "/attributes/@prg05",
+            "fieldPath": "/attributes/@prg05",
+            "rank": "zw"
+          },
+          "/attributes/@prg06": {
+            "id": "/attributes/@prg06",
+            "fieldPath": "/attributes/@prg06",
+            "rank": "zy"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@prg01": {
+            "id": "/attributes/@prg01",
+            "fieldPath": "/attributes/@prg01",
+            "rank": "z"
+          },
+          "/attributes/@prg02": {
+            "id": "/attributes/@prg02",
+            "fieldPath": "/attributes/@prg02",
+            "rank": "zV"
+          },
+          "/attributes/@prg03": {
+            "id": "/attributes/@prg03",
+            "fieldPath": "/attributes/@prg03",
+            "rank": "zk"
+          },
+          "/attributes/@prg04": {
+            "id": "/attributes/@prg04",
+            "fieldPath": "/attributes/@prg04",
+            "rank": "zs"
+          },
+          "/attributes/@prg05": {
+            "id": "/attributes/@prg05",
+            "fieldPath": "/attributes/@prg05",
+            "rank": "zw"
+          },
+          "/attributes/@prg06": {
+            "id": "/attributes/@prg06",
+            "fieldPath": "/attributes/@prg06",
+            "rank": "zy"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@prg01": {
+            "id": "/attributes/@prg01",
+            "fieldPath": "/attributes/@prg01",
+            "rank": "z"
+          },
+          "/attributes/@prg02": {
+            "id": "/attributes/@prg02",
+            "fieldPath": "/attributes/@prg02",
+            "rank": "zV"
+          },
+          "/attributes/@prg03": {
+            "id": "/attributes/@prg03",
+            "fieldPath": "/attributes/@prg03",
+            "rank": "zk"
+          },
+          "/attributes/@prg04": {
+            "id": "/attributes/@prg04",
+            "fieldPath": "/attributes/@prg04",
+            "rank": "zs"
+          },
+          "/attributes/@prg05": {
+            "id": "/attributes/@prg05",
+            "fieldPath": "/attributes/@prg05",
+            "rank": "zw"
+          },
+          "/attributes/@prg06": {
+            "id": "/attributes/@prg06",
+            "fieldPath": "/attributes/@prg06",
+            "rank": "zy"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@prg01": {
+            "id": "/attributes/@prg01",
+            "fieldPath": "/attributes/@prg01",
+            "rank": "z"
+          },
+          "/attributes/@prg02": {
+            "id": "/attributes/@prg02",
+            "fieldPath": "/attributes/@prg02",
+            "rank": "zV"
+          },
+          "/attributes/@prg03": {
+            "id": "/attributes/@prg03",
+            "fieldPath": "/attributes/@prg03",
+            "rank": "zk"
+          },
+          "/attributes/@prg04": {
+            "id": "/attributes/@prg04",
+            "fieldPath": "/attributes/@prg04",
+            "rank": "zs"
+          },
+          "/attributes/@prg05": {
+            "id": "/attributes/@prg05",
+            "fieldPath": "/attributes/@prg05",
+            "rank": "zw"
+          },
+          "/attributes/@prg06": {
+            "id": "/attributes/@prg06",
+            "fieldPath": "/attributes/@prg06",
+            "rank": "zy"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@prg01": {
+            "id": "/attributes/@prg01",
+            "fieldPath": "/attributes/@prg01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@prg02": {
+            "id": "/attributes/@prg02",
+            "fieldPath": "/attributes/@prg02",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@prg03": {
+            "id": "/attributes/@prg03",
+            "fieldPath": "/attributes/@prg03",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@prg04": {
+            "id": "/attributes/@prg04",
+            "fieldPath": "/attributes/@prg04",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@prg05": {
+            "id": "/attributes/@prg05",
+            "fieldPath": "/attributes/@prg05",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@prg06": {
+            "id": "/attributes/@prg06",
+            "fieldPath": "/attributes/@prg06",
+            "rank": "zy",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@prg01": {
+            "id": "/attributes/@prg01",
+            "fieldPath": "/attributes/@prg01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@prg02": {
+            "id": "/attributes/@prg02",
+            "fieldPath": "/attributes/@prg02",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@prg03": {
+            "id": "/attributes/@prg03",
+            "fieldPath": "/attributes/@prg03",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@prg04": {
+            "id": "/attributes/@prg04",
+            "fieldPath": "/attributes/@prg04",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@prg05": {
+            "id": "/attributes/@prg05",
+            "fieldPath": "/attributes/@prg05",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@prg06": {
+            "id": "/attributes/@prg06",
+            "fieldPath": "/attributes/@prg06",
+            "rank": "zy",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@prg01": {
+        "type": "string",
+        "displayName": "User ID"
+      },
+      "@prg02": {
+        "type": "string",
+        "displayName": "User Email"
+      },
+      "@prg03": {
+        "type": "string",
+        "displayName": "Training ID"
+      },
+      "@prg04": {
+        "type": "string",
+        "displayName": "Training Name"
+      },
+      "@prg05": {
+        "type": "DateTime",
+        "title": "Completed At"
+      },
+      "@prg06": {
+        "type": "Select",
+        "displayName": "Status",
+        "options": {
+          "prg-opt-1": {
+            "id": "prg-opt-1",
+            "name": "Completed",
+            "color": "#c5a95e",
+            "rank": "0"
+          },
+          "prg-opt-2": {
+            "id": "prg-opt-2",
+            "name": "In Progress",
+            "color": "#888888",
+            "rank": "1"
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🖌️"
+    }
+  }
+}
